@@ -1,4 +1,6 @@
-Code related to An integrated multi-omic single cell atlas of human B cell identity. These scripts allow processing of fcs files and generation of the main figures from the manuscript. Instructions for each script are written in script headers.
+Code related to An integrated multi-omic single cell atlas of human B cell identity: link pending 
+
+These scripts allow processing of fcs files and generation of the main figures from the manuscript. Instructions for each script are written in script headers.
 
 screen_preprocess.R processes fcs files from the surface screen. Files can be found here: https://flowrepository.org/id/FR-FCM-Z2MA
 
