@@ -1,0 +1,12 @@
+﻿filename,tissue,donor,run
+PheB_Tissue_BM1_B cells.fcs,BM,5,2
+PheB_Tissue_BM2_B cells.fcs,BM,6,2
+PheB_Tissue_BM3_B cells.fcs,BM,7,2
+PheB_Tissue_LN1_B cells.fcs,LN,11,1
+PheB_Tissue_PB1_B cells.fcs,PB,1,2
+PheB_Tissue_PB2_B cells.fcs,PB,2,2
+PheB_Tissue_PB3_B cells.fcs,PB,3,2
+PheB_Tissue_PB4_B cells.fcs,PB,4,1
+PheB_Tissue_T1_B cells.fcs,T,8,2
+PheB_Tissue_T2_B cells.fcs,T,9,2
+PheB_Tissue_T3_B cells.fcs,T,10,2

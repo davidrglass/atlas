@@ -1,0 +1,121 @@
+﻿filename,panel,subject,gate
+PB816_M3_normalized_B cells_normalized.fcs.fcs,3,PB816,Ungated
+PB816_M3_normalized_Naive_normalized.fcs.fcs,3,PB816,Naïve
+PB816_M3_normalized_Non-switched memory_normalized.fcs.fcs,3,PB816,Non-switched
+PB816_M3_normalized_Switched memory_normalized.fcs.fcs,3,PB816,Switched
+PB816_M3_normalized_Transitional_normalized.fcs.fcs,3,PB816,Transitional
+PB816_M4_normalized_B cells_normalized.fcs.fcs,4,PB816,Ungated
+PB816_M4_normalized_Naive_normalized.fcs.fcs,4,PB816,Naïve
+PB816_M4_normalized_Non-switched memory_normalized.fcs.fcs,4,PB816,Non-switched
+PB816_M4_normalized_Switched memory_normalized.fcs.fcs,4,PB816,Switched
+PB816_M4_normalized_Transitional_normalized.fcs.fcs,4,PB816,Transitional
+PB816_M5_normalized_B cells_normalized.fcs.fcs,5,PB816,Ungated
+PB816_M5_normalized_Naive_normalized.fcs.fcs,5,PB816,Naïve
+PB816_M5_normalized_Non-switched memory_normalized.fcs.fcs,5,PB816,Non-switched
+PB816_M5_normalized_Switched memory_normalized.fcs.fcs,5,PB816,Switched
+PB816_M5_normalized_Transitional_normalized.fcs.fcs,5,PB816,Transitional
+PB816_M6_normalized_B cells_normalized.fcs.fcs,6,PB816,Ungated
+PB816_M6_normalized_Naive_normalized.fcs.fcs,6,PB816,Naïve
+PB816_M6_normalized_Non-switched memory_normalized.fcs.fcs,6,PB816,Non-switched
+PB816_M6_normalized_Switched memory_normalized.fcs.fcs,6,PB816,Switched
+PB816_M6_normalized_Transitional_normalized.fcs.fcs,6,PB816,Transitional
+PB816_M7_normalized_B cells_normalized.fcs.fcs,7,PB816,Ungated
+PB816_M7_normalized_Naive_normalized.fcs.fcs,7,PB816,Naïve
+PB816_M7_normalized_Non-switched memory_normalized.fcs.fcs,7,PB816,Non-switched
+PB816_M7_normalized_Switched memory_normalized.fcs.fcs,7,PB816,Switched
+PB816_M7_normalized_Transitional_normalized.fcs.fcs,7,PB816,Transitional
+PB816_M8_normalized_B cells_normalized.fcs.fcs,8,PB816,Ungated
+PB816_M8_normalized_Naive_normalized.fcs.fcs,8,PB816,Naïve
+PB816_M8_normalized_Non-switched memory_normalized.fcs.fcs,8,PB816,Non-switched
+PB816_M8_normalized_Switched memory_normalized.fcs.fcs,8,PB816,Switched
+PB816_M8_normalized_Transitional_normalized.fcs.fcs,8,PB816,Transitional
+PB816_M9_normalized_B cells_normalized.fcs.fcs,9,PB816,Ungated
+PB816_M9_normalized_Naive_normalized.fcs.fcs,9,PB816,Naïve
+PB816_M9_normalized_Non-switched memory_normalized.fcs.fcs,9,PB816,Non-switched
+PB816_M9_normalized_Switched memory_normalized.fcs.fcs,9,PB816,Switched
+PB816_M9_normalized_Transitional_normalized.fcs.fcs,9,PB816,Transitional
+PB816_M10_normalized_B cells_normalized.fcs.fcs,10,PB816,Ungated
+PB816_M10_normalized_Naive_normalized.fcs.fcs,10,PB816,Naïve
+PB816_M10_normalized_Non-switched memory_normalized.fcs.fcs,10,PB816,Non-switched
+PB816_M10_normalized_Switched memory_normalized.fcs.fcs,10,PB816,Switched
+PB816_M10_normalized_Transitional_normalized.fcs.fcs,10,PB816,Transitional
+PB816_M11_normalized_B cells_normalized.fcs.fcs,11,PB816,Ungated
+PB816_M11_normalized_Naive_normalized.fcs.fcs,11,PB816,Naïve
+PB816_M11_normalized_Non-switched memory_normalized.fcs.fcs,11,PB816,Non-switched
+PB816_M11_normalized_Switched memory_normalized.fcs.fcs,11,PB816,Switched
+PB816_M11_normalized_Transitional_normalized.fcs.fcs,11,PB816,Transitional
+PB816_M12_normalized_B cells_normalized.fcs.fcs,12,PB816,Ungated
+PB816_M12_normalized_Naive_normalized.fcs.fcs,12,PB816,Naïve
+PB816_M12_normalized_Non-switched memory_normalized.fcs.fcs,12,PB816,Non-switched
+PB816_M12_normalized_Switched memory_normalized.fcs.fcs,12,PB816,Switched
+PB816_M12_normalized_Transitional_normalized.fcs.fcs,12,PB816,Transitional
+PB816-M1_normalized_B cells_normalized.fcs.fcs,1,PB816,Ungated
+PB816-M1_normalized_Naive_normalized.fcs.fcs,1,PB816,Naïve
+PB816-M1_normalized_Non-switched memory_normalized.fcs.fcs,1,PB816,Non-switched
+PB816-M1_normalized_Switched memory_normalized.fcs.fcs,1,PB816,Switched
+PB816-M1_normalized_Transitional_normalized.fcs.fcs,1,PB816,Transitional
+PB816-M2_normalized_B cells_normalized.fcs.fcs,2,PB816,Ungated
+PB816-M2_normalized_Naive_normalized.fcs.fcs,2,PB816,Naïve
+PB816-M2_normalized_Non-switched memory_normalized.fcs.fcs,2,PB816,Non-switched
+PB816-M2_normalized_Switched memory_normalized.fcs.fcs,2,PB816,Switched
+PB816-M2_normalized_Transitional_normalized.fcs.fcs,2,PB816,Transitional
+PB819_M3_normalized_B cells_normalized.fcs.fcs,3,PB819,Ungated
+PB819_M3_normalized_Naive_normalized.fcs.fcs,3,PB819,Naïve
+PB819_M3_normalized_Non-switched memory_normalized.fcs.fcs,3,PB819,Non-switched
+PB819_M3_normalized_Switched memory_normalized.fcs.fcs,3,PB819,Switched
+PB819_M3_normalized_Transitional_normalized.fcs.fcs,3,PB819,Transitional
+PB819_M4_normalized_B cells_normalized.fcs.fcs,4,PB819,Ungated
+PB819_M4_normalized_Naive_normalized.fcs.fcs,4,PB819,Naïve
+PB819_M4_normalized_Non-switched memory_normalized.fcs.fcs,4,PB819,Non-switched
+PB819_M4_normalized_Switched memory_normalized.fcs.fcs,4,PB819,Switched
+PB819_M4_normalized_Transitional_normalized.fcs.fcs,4,PB819,Transitional
+PB819_M5_normalized_B cells_normalized.fcs.fcs,5,PB819,Ungated
+PB819_M5_normalized_Naive_normalized.fcs.fcs,5,PB819,Naïve
+PB819_M5_normalized_Non-switched memory_normalized.fcs.fcs,5,PB819,Non-switched
+PB819_M5_normalized_Switched memory_normalized.fcs.fcs,5,PB819,Switched
+PB819_M5_normalized_Transitional_normalized.fcs.fcs,5,PB819,Transitional
+PB819_M6_normalized_B cells_normalized.fcs.fcs,6,PB819,Ungated
+PB819_M6_normalized_Naive_normalized.fcs.fcs,6,PB819,Naïve
+PB819_M6_normalized_Non-switched memory_normalized.fcs.fcs,6,PB819,Non-switched
+PB819_M6_normalized_Switched memory_normalized.fcs.fcs,6,PB819,Switched
+PB819_M6_normalized_Transitional_normalized.fcs.fcs,6,PB819,Transitional
+PB819_M7_normalized_B cells_normalized.fcs.fcs,7,PB819,Ungated
+PB819_M7_normalized_Naive_normalized.fcs.fcs,7,PB819,Naïve
+PB819_M7_normalized_Non-switched memory_normalized.fcs.fcs,7,PB819,Non-switched
+PB819_M7_normalized_Switched memory_normalized.fcs.fcs,7,PB819,Switched
+PB819_M7_normalized_Transitional_normalized.fcs.fcs,7,PB819,Transitional
+PB819_M8_normalized_B cells_normalized.fcs.fcs,8,PB819,Ungated
+PB819_M8_normalized_Naive_normalized.fcs.fcs,8,PB819,Naïve
+PB819_M8_normalized_Non-switched memory_normalized.fcs.fcs,8,PB819,Non-switched
+PB819_M8_normalized_Switched memory_normalized.fcs.fcs,8,PB819,Switched
+PB819_M8_normalized_Transitional_normalized.fcs.fcs,8,PB819,Transitional
+PB819_M9_normalized_B cells_normalized.fcs.fcs,9,PB819,Ungated
+PB819_M9_normalized_Naive_normalized.fcs.fcs,9,PB819,Naïve
+PB819_M9_normalized_Non-switched memory_normalized.fcs.fcs,9,PB819,Non-switched
+PB819_M9_normalized_Switched memory_normalized.fcs.fcs,9,PB819,Switched
+PB819_M9_normalized_Transitional_normalized.fcs.fcs,9,PB819,Transitional
+PB819_M10_normalized_B cells_normalized.fcs.fcs,10,PB819,Ungated
+PB819_M10_normalized_Naive_normalized.fcs.fcs,10,PB819,Naïve
+PB819_M10_normalized_Non-switched memory_normalized.fcs.fcs,10,PB819,Non-switched
+PB819_M10_normalized_Switched memory_normalized.fcs.fcs,10,PB819,Switched
+PB819_M10_normalized_Transitional_normalized.fcs.fcs,10,PB819,Transitional
+PB819_M11_normalized_B cells_normalized.fcs.fcs,11,PB819,Ungated
+PB819_M11_normalized_Naive_normalized.fcs.fcs,11,PB819,Naïve
+PB819_M11_normalized_Non-switched memory_normalized.fcs.fcs,11,PB819,Non-switched
+PB819_M11_normalized_Switched memory_normalized.fcs.fcs,11,PB819,Switched
+PB819_M11_normalized_Transitional_normalized.fcs.fcs,11,PB819,Transitional
+PB819_M12_normalized_B cells_normalized.fcs.fcs,12,PB819,Ungated
+PB819_M12_normalized_Naive_normalized.fcs.fcs,12,PB819,Naïve
+PB819_M12_normalized_Non-switched memory_normalized.fcs.fcs,12,PB819,Non-switched
+PB819_M12_normalized_Switched memory_normalized.fcs.fcs,12,PB819,Switched
+PB819_M12_normalized_Transitional_normalized.fcs.fcs,12,PB819,Transitional
+PB819-M1_normalized_B cells_normalized.fcs.fcs,1,PB819,Ungated
+PB819-M1_normalized_Naive_normalized.fcs.fcs,1,PB819,Naïve
+PB819-M1_normalized_Non-switched memory_normalized.fcs.fcs,1,PB819,Non-switched
+PB819-M1_normalized_Switched memory_normalized.fcs.fcs,1,PB819,Switched
+PB819-M1_normalized_Transitional_normalized.fcs.fcs,1,PB819,Transitional
+PB819-M2_normalized_B cells_normalized.fcs.fcs,2,PB819,Ungated
+PB819-M2_normalized_Naive_normalized.fcs.fcs,2,PB819,Naïve
+PB819-M2_normalized_Non-switched memory_normalized.fcs.fcs,2,PB819,Non-switched
+PB819-M2_normalized_Switched memory_normalized.fcs.fcs,2,PB819,Switched
+PB819-M2_normalized_Transitional_normalized.fcs.fcs,2,PB819,Transitional
