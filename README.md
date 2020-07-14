@@ -1,4 +1,4 @@
-Code related to An integrated multi-omic single cell atlas of human B cell identity: link pending 
+Code related to An integrated multi-omic single cell atlas of human B cell identity: https://www.cell.com/immunity/fulltext/S1074-7613(20)30268-5
 
 These scripts allow processing of fcs files and generation of the main figures from the manuscript. Instructions for each script are written in script headers.
 
